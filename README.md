@@ -9,7 +9,7 @@ KeepAlivePro
 
 ## 测试APK包
 ```
-https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
+https://maoyun-walk.oss-cn-beijing.aliyuncs.com/keepAlive/keepAlivekeepAlive-xx.apk
 
 ```
 ## 效果图
@@ -20,4 +20,4 @@ https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
 
 ## 微信（添加时请备注保活）
 
-wkxiaoxie
+qiming3062
