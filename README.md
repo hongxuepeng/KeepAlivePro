@@ -6,7 +6,6 @@ KeepAlivePro
 支持华为，oppo，vivo，小米，魅族，三星全机型，其他机型覆盖率98%以上。仅限技术交流使用，禁止非法使用。
 
 
-
 ## 测试APK包
 ```
 https://maoyun-walk.oss-cn-beijing.aliyuncs.com/keepAlive/keepAlivekeepAlive-xx.apk
